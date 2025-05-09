@@ -1,0 +1,355 @@
+body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+.search-container input[type="text"] {
+      margin-top: 20px;
+      padding: 10px;
+      width: 98%;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      font-size: 16px;
+  }
+
+
+.container{
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+  .sort-links {
+      text-align: center;
+      margin-bottom: 20px;
+  }
+
+  .sort-links a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #007bff;
+      font-weight: bold;
+  }
+
+  .sort-links a:hover {
+      text-decoration: underline;
+  }
+
+  .lesson-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      justify-content: center;
+      margin-top: 20px;
+  }
+
+  .lesson-card {
+      width: 100%;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      padding: 15px;
+      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+      background-color: #fff;
+  }
+
+  .lesson-card__title {
+      font-family: var(--font-family);
+      font-weight: 700;
+      font-size: 24px;
+      color: #186af7;
+      margin-bottom: 10px;
+  }
+
+  .lesson-card__desc {
+      font-family: var(--font-family);
+      font-weight: 100;
+      font-size: 16px;
+      color: #000;
+      margin-bottom: 10px;
+      line-height: 1.5;
+  }
+
+  .lesson-card__date {
+      font-family: var(--font-family);
+      font-weight: 100;
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 15px;
+  }
+
+  .lesson-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 10px;
+      flex-wrap: wrap;
+  }
+
+  .lesson-actions a {
+      display: inline-block;
+      padding: 8px 12px;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      text-align: center;
+      font-size: 14px;
+      margin: 2px;
+  }
+
+  .btn-details {
+      background-color: #007bff;
+  }
+
+  .btn-details:hover {
+      background-color: #0056b3;
+  }
+
+  .btn-create-test {
+      background-color: #28a745;
+  }
+
+  .btn-create-test:hover {
+      background-color: #218838;
+  }
+
+  .btn-edit-test {
+      background-color: rgb(247, 7, 255);
+      color: #fff;
+  }
+
+  .btn-edit-test:hover {
+      background-color: rgb(157, 6, 162);
+  }
+
+  .btn-monitoring {
+      background-color: #ffc107;
+      color: #212529;
+  }
+
+  .btn-monitoring:hover {
+      background-color: #e0a800;
+  }
+
+  .no-results {
+      text-align: center;
+      padding: 20px;
+      font-size: 18px;
+      color: #666;
+  }
+
+  .show-more-btn {
+      background: none;
+      border: none;
+      color: #007bff;
+      cursor: pointer;
+      padding: 0;
+      font-size: 14px;
+      font-weight: bold;
+      margin-left: 5px;
+  }
+
+  .show-more-btn:hover {
+      color: #0056b3;
+  }
+
+  /* Стили для модального окна */
+  .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.4);
+  }
+
+  .modal-content {
+      background-color: #fefefe;
+      margin: 5% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 80%;
+      max-width: 900px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .close {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+  }
+
+  .close:hover {
+      color: black;
+  }
+
+  .modal-header {
+      padding: 10px 0;
+      border-bottom: 1px solid #ddd;
+      margin-bottom: 20px;
+  }
+
+  .modal-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+  }
+
+  .search-student {
+      margin-bottom: 20px;
+  }
+
+  .search-student input {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      font-size: 16px;
+  }
+
+  .results-table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      margin: 20px 0;
+      font-size: 14px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      overflow: hidden;
+  }
+
+  .results-table thead tr {
+      background-color: rgba(0, 87, 179, 0.6);
+      color: #ffffff;
+      text-align: left;
+      font-weight: bold;
+  }
+
+  .results-table th,
+  .results-table td {
+      padding: 12px 15px;
+      position: relative;
+  }
+
+  .results-table th {
+      font-size: 15px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+  }
+
+  .results-table tbody tr {
+      border-bottom: 1px solid #dddddd;
+      transition: all 0.3s ease;
+  }
+
+  .results-table tbody tr:nth-of-type(even) {
+      background-color: #f8f9fa;
+  }
+
+  .results-table tbody tr:last-of-type {
+      border-bottom: 2px solid #2c3e50;
+  }
+
+  .results-table tbody tr:hover {
+      background-color: #e9ecef;
+      transform: translateX(5px);
+  }
+
+  .results-table td:not(:last-child)::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      height: 60%;
+      width: 1px;
+      background-color: rgba(0, 0, 0, 0.1);
+  }
+
+  /* Стили для статусов */
+  .passed {
+      color: #28a745;
+      font-weight: bold;
+      background-color: rgba(40, 167, 69, 0.1);
+      padding: 5px 10px;
+      display: inline-block;
+      min-width: 110px;
+      text-align: center;
+  }
+
+  .failed {
+      color: #dc3545;
+      font-weight: bold;
+      background-color: rgba(220, 53, 69, 0.1);
+      padding: 5px 10px;
+      display: inline-block;
+      min-width: 70px;
+      text-align: center;
+  }
+
+  /* Анимация загрузки */
+  @keyframes spin {
+      0% {
+          transform: rotate(0deg);
+      }
+
+      100% {
+          transform: rotate(360deg);
+      }
+  }
+
+  .loading .fa-spinner {
+      animation: spin 1s linear infinite;
+      margin-right: 10px;
+  }
+
+  .loading {
+      color: #6c757d;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 30px;
+  }
+
+  /* Адаптивность таблицы */
+  @media (max-width: 768px) {
+      .results-table {
+          display: block;
+          overflow-x: auto;
+      }
+
+      .results-table th,
+      .results-table td {
+          padding: 8px 10px;
+          font-size: 13px;
+      }
+  }
+
+  /* Стили для скролла в модальном окне */
+  .modal-content {
+      max-height: 80vh;
+      overflow-y: auto;
+  }
+
+  /* Кастомный скроллбар */
+  .modal-content::-webkit-scrollbar {
+      width: 8px;
+  }
+
+  .modal-content::-webkit-scrollbar-track {
+      background: #f1f1f1;
+      border-radius: 10px;
+  }
+
+  .modal-content::-webkit-scrollbar-thumb {
+      background: #888;
+      border-radius: 10px;
+  }
+
+  .modal-content::-webkit-scrollbar-thumb:hover {
+      background: #555;
+  }

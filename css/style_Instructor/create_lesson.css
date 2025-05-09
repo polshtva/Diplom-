@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.course-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #186AF7;
+    text-align: center;
+}
+
+.message {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.message.success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.message.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.back-button {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #186AF7;
+    padding: 10px 15px;
+    border-radius: 8px;
+    background: #eef5ff;
+    transition: 0.3s;
+    cursor: pointer;
+    border: none;
+}
+
+.back-button:hover {
+    background: #d6e5ff;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+input,
+select,
+textarea {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+input[type="file"] {
+    padding: 5px;
+}
+
+textarea {
+    min-height: 100px;
+    resize: vertical;
+}
+
+.btn-submit {
+    padding: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #186AF7;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 20px;
+}
+
+.btn-submit:hover {
+    background-color: #1d65c4;
+}
+
+.file-info {
+    font-size: 14px;
+    color: #666;
+    margin-top: 5px;
+}
+
+.video-upload-container,
+.material-upload-container {
+    margin-bottom: 20px;
+}
+
+.add-video-btn,
+.add-material-btn {
+    padding: 8px 12px;
+    font-size: 14px;
+    background-color: #eef5ff;
+    color: #186AF7;
+    border: 1px solid #186AF7;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+    transition: 0.3s;
+}
+
+.add-video-btn:hover,
+.add-material-btn:hover {
+    background-color: #d6e5ff;
+}
+
+.remove-btn {
+    padding: 5px 8px;
+    font-size: 12px;
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+
+.remove-btn:hover {
+    background-color: #f1b0b7;
+}
+
+.file-input-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: white;
+      padding: 20px;
+      margin-top: 20px;
+
+  }
+
+  h1,
+  h2,
+  h3 {
+      color: #2c3e50;
+      margin: 0;
+  }
+
+
+  .user-info {
+    margin-top: 10px;
+      display: flex;
+      align-items: center;
+  }
+
+  .user-avatar {
+      width: 50px;
+      height: 50px;
+      background-color: #3498db;
+      color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      margin-right: 10px;
+  }
+
+  .course-selector {
+      margin-bottom: 20px;
+      padding: 15px;
+      background-color: #f8f9fa;
+      border-radius: 5px;
+  }
+
+  select,
+  button {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 16px;
+  }
+
+  button {
+      background-color: #3498db;
+      color: white;
+      cursor: pointer;
+      margin-left: 10px;
+  }
+
+  button:hover {
+      background-color: #2980b9;
+  }
+
+  .search-box {
+      margin-bottom: 20px;
+  }
+
+  input[type="text"] {
+      padding: 8px;
+      width: 300px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 16px;
+  }
+
+  .student-card {
+      background-color: white;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 15px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+
+  .student-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #eee;
+  }
+
+  .student-name {
+      font-size: 18px;
+      font-weight: bold;
+      color: #2c3e50;
+  }
+
+  .student-info {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-bottom: 10px;
+  }
+
+  .info-item {
+      flex: 1 1 200px;
+  }
+
+  .info-label {
+      font-weight: bold;
+      color: #7f8c8d;
+      margin-bottom: 5px;
+  }
+
+  .parents-section {
+      margin-top: 15px;
+      padding-top: 15px;
+      border-top: 1px dashed #ddd;
+  }
+
+  .parent-card {
+      background-color: #f8f9fa;
+      padding: 10px;
+      border-radius: 4px;
+      margin-top: 10px;
+  }
+
+  .no-data {
+      color: #7f8c8d;
+      font-style: italic;
+  }
+
+  .no-results {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+  }
+
+  .course-title {
+      color: #3498db;
+      margin-bottom: 20px;
+  }
+
+  @media (max-width: 768px) {
+      .header {
+          flex-direction: column;
+          align-items: flex-start;
+      }
+
+      .user-info {
+          margin-bottom: 15px;
+      }
+
+      input[type="text"] {
+          width: 100%;
+      }
+
+      .course-selector {
+          flex-direction: column;
+      }
+
+      select,
+      button {
+          width: 100%;
+          margin: 5px 0;
+      }
+  }
+

@@ -1,0 +1,209 @@
+ :root {
+      --primary-color: #4361ee;
+      --secondary-color: #3f37c9;
+      --accent-color: #4895ef;
+      --danger-color: #f72585;
+      --success-color: #4cc9f0;
+      --light-color: #f8f9fa;
+      --dark-color: #212529;
+      --border-radius: 8px;
+      --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      --transition: all 0.3s ease;
+  }
+
+  body {
+     overflow-x: hidden !important;
+      background-color: #f5f7fa;
+      color: var(--dark-color);
+      line-height: 1.6;
+      padding: 0;
+      margin: 0;
+  }
+
+  .container {
+      max-width: 1500px;
+      margin: 30px auto;
+      padding: 20px;
+      background: white;
+      border-radius: var(--border-radius);
+      box-shadow: var(--box-shadow);
+  }
+
+  h2 {
+      color: var(--secondary-color);
+      margin-bottom: 25px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid var(--accent-color);
+  }
+
+  label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+      color: var(--secondary-color);
+  }
+
+  input[type="text"],
+  textarea,
+  select {
+      width: 95%;
+      padding: 12px;
+      margin-bottom: 20px;
+      border: 2px solid #e9ecef;
+      border-radius: var(--border-radius);
+      font-size: 16px;
+      transition: var(--transition);
+  }
+
+  input[type="text"]:focus,
+  textarea:focus,
+  select:focus {
+      border-color: var(--accent-color);
+      outline: none;
+      box-shadow: 0 0 0 3px rgba(67, 97, 238, 0.2);
+  }
+
+  textarea {
+      min-height: 100px;
+      resize: vertical;
+  }
+
+  .question-block {
+      background: white;
+      border: 1px solid #e9ecef;
+      padding: 25px;
+      margin-top: 30px;
+      border-radius: var(--border-radius);
+      box-shadow: var(--box-shadow);
+      transition: var(--transition);
+      position: relative;
+  }
+
+  .question-block:hover {
+      border-color: var(--accent-color);
+  }
+
+  .question-block::before {
+      content: "Вопрос";
+      position: absolute;
+      top: -12px;
+      left: 20px;
+      background: var(--primary-color);
+      color: white;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 14px;
+      font-weight: bold;
+  }
+
+  .answer-block {
+      margin: 20px 0;
+  }
+
+  .answer-item {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      margin-bottom: 15px;
+      padding: 12px;
+      background: #f8f9fa;
+      border-radius: var(--border-radius);
+      transition: var(--transition);
+  }
+
+  .answer-item:hover {
+      background: #e9ecef;
+  }
+
+  .answer-item input[type="text"] {
+      margin-bottom: 0;
+      flex-grow: 1;
+  }
+
+  .btn {
+      padding: 10px 20px;
+      background: var(--primary-color);
+      color: white;
+      border: none;
+      border-radius: var(--border-radius);
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: 600;
+      transition: var(--transition);
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+  }
+
+  .btn:hover {
+      background: var(--secondary-color);
+      transform: translateY(-2px);
+  }
+
+  .btn:active {
+      transform: translateY(0);
+  }
+
+  .btn-danger {
+      background: var(--danger-color);
+      margin-top: 10px;
+  }
+
+  .btn-danger:hover {
+      background: #d1145a;
+  }
+
+  .btn-group {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+  }
+
+  input[type="checkbox"],
+  input[type="radio"] {
+      width: auto;
+      margin-right: 10px;
+      transform: scale(1.3);
+  }
+
+  .success-message {
+      background: var(--success-color);
+      color: white;
+      padding: 15px;
+      border-radius: var(--border-radius);
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+  }
+
+  .success-message::before {
+      content: "✓";
+      font-weight: bold;
+  }
+
+  @media (max-width: 768px) {
+      .container {
+          padding: 15px;
+          margin: 15px;
+      }
+
+      .question-block {
+          padding: 15px;
+      }
+  }
+
+  .back-button {
+      display: inline-block;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+      color: #186AF7;
+      padding: 10px 15px;
+      border-radius: 8px;
+      background: #eef5ff;
+      transition: 0.3s;
+      cursor: pointer;
+      border: none;
+  }
+

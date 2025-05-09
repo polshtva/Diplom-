@@ -1,0 +1,82 @@
+/* Адаптация для устройств с шириной экрана до 1200px */
+@media (max-width: 1200px) {
+    .hero__contant {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 50px;
+        justify-content: center;
+    }
+
+    .hero__info {
+        text-align: center;
+        justify-content: center;
+    }
+}
+
+/* Адаптация для устройств с шириной экрана до 768px */
+@media (max-width: 768px) {
+
+    .hero__contant {
+        padding-top: 40%;
+    }
+
+    .hero__info {
+        max-width: 100%;
+        padding: 0 20px;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .subtitle {
+        font-size: 1.25rem;
+    }
+
+    .btn {
+        padding: 10px 40px;
+    }
+
+    .modal-content {
+
+        width: 90%;
+        padding: 20px;
+    }
+
+    .modal__form input:not(.modal__form input[type="checkbox"]) {
+        width: 100%;
+    }
+}
+
+/* Адаптация для устройств с шириной экрана до 480px */
+@media (max-width: 480px) {
+    .title {
+        font-size: 2.9rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+
+    .btn {
+        padding: 8px 30px;
+    }
+
+    .modal-content {
+        width: 95%;
+        padding: 15px;
+    }
+
+    .modal h2 {
+        font-size: 1.5rem;
+    }
+
+    .modal__extra-info {
+        font-size: 0.875rem;
+    }
+
+    .modal__form input:not(.modal__form input[type="checkbox"]) {
+        font-size: 0.875rem;
+    }
+}
+

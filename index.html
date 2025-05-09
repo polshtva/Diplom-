@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational IT Platform</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <section class="hero">
+            <div class="container">
+                <div class="hero__contant">
+                    <div class="hero__info">
+                        <div class="title">Платформа для обучения IT профессиям</div>
+                        <div class="subtitle">Информационная система для изучения передовых технологий</div>
+                        <div class="buttons">
+                            <button class="btn" id="login-btn">Войти</button>
+                        </div>
+                    </div>
+                    <img src="img/hero/isometric-cms-concept 2.png" alt="картинка" class="hero__img">
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Всплывающее окно авторизации -->
+
+    <div id="login-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Авторизация пользователя</h2>
+            <div class="modal__extra-info">Для доступа к системе требуется ввести учетные данные - логин и пароль.</div>
+            <form class="modal__form" action="php/authorization.php" method="post">
+                <input type="text" id="login" name="login" required placeholder="Логин">
+                <input type="password" id="password" name="password" required placeholder="Пароль">
+                <label style="display: flex; column-gap: 5px; align-items: center;">
+                    <input type="checkbox" id="show-password"><span>Показать пароль</span>
+                </label>
+
+
+                <button type="submit" class="btn">Войти</button>
+                <p>
+                    <a href="#" id="forgot-password-link">Забыли пароль?</a>
+                </p>
+            </form>
+        </div>
+    </div>
+    <!-- Всплывающее окно для восстановления пароля -->
+    <div id="forgot-password-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Восстановление пароля</h2>
+            <form class="modal__form">
+                <input type="text" id="first-name" name="first-name" required placeholder="Введите имя">
+                <input type="text" id="last-name" name="last-name" required placeholder="Введите фамилию">
+                <input type="email" id="email" name="email" required placeholder="Введите почту">
+                <button type="submit" class="btn">Отправить</button>
+            </form>
+        </div>
+    </div>
+    <!-- Модальное окно для сообщения об ошибке -->
+    <div id="error-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Такого пользователя не существует.</p>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            // Открытие модального окна авторизации
+            $('#login-btn').click(function (e) {
+                e.preventDefault();
+                $('#login-modal').fadeIn();
+            });
+
+            // Закрытие модальных окон
+            $('.close').click(function () {
+                $('.modal').fadeOut();
+            });
+
+            // Открытие модального окна восстановления пароля
+            $('#forgot-password-link').click(function (e) {
+                e.preventDefault();
+                $('#login-modal').hide();
+                $('#forgot-password-modal').show();
+            });
+
+            // Логика показа/скрытия пароля
+            $('#show-password').on('change', function () {
+                const passwordInput = $('#password');
+                if ($(this).is(':checked')) {
+                    passwordInput.attr('type', 'text'); // Показать пароль
+                } else {
+                    passwordInput.attr('type', 'password'); // Скрыть пароль
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

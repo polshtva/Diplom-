@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+       max-width: 1200px;
+       margin: 0 auto;
+   }
+
+   .user-header{
+    margin-top: 15px;
+}
+
+   .course-card {
+       background-color: white;
+       border-radius: 5px;
+       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+       padding: 20px;
+       margin-bottom: 20px;
+   }
+
+   .course-title {
+       color: #186af7;
+       margin-top: 0;
+   }
+
+   .progress-bar {
+       height: 20px;
+       background-color: #e0e0e0;
+       border-radius: 10px;
+       margin: 10px 0;
+       overflow: hidden;
+   }
+
+   .progress {
+       height: 100%;
+       background-color: #186af7;
+       width: 0%;
+       transition: width 0.3s;
+   }
+
+   .btn {
+       display: inline-block;
+       background-color: #186af7;
+       color: white;
+       padding: 10px 15px;
+       text-decoration: none;
+       border-radius: 5px;
+       border: none;
+       cursor: pointer;
+       margin-top: 10px;
+   }
+
+   .btn:hover {
+       background-color: rgb(16, 68, 159);
+   }
+

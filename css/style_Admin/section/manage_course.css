@@ -1,0 +1,55 @@
+.modal {
+       display: none;
+       position: fixed;
+       z-index: 999;
+       top: 0;
+       left: 0;
+       width: 100%;
+       height: 100%;
+       background: rgba(0, 0, 0, 0.5);
+   }
+
+   .modal-content {
+       background: white;
+       padding: 20px;
+       margin: 10% auto;
+       max-width: 800px;
+       position: relative;
+       max-height: 80vh;
+       overflow-y: auto;
+   }
+
+   .close {
+       position: absolute;
+       top: 10px;
+       right: 15px;
+       font-size: 24px;
+       cursor: pointer;
+   }
+
+   .search-box {
+       margin-bottom: 15px;
+   }
+
+   .student-row,
+   .teacher-row {
+       display: table-row;
+   }
+
+   .hidden {
+       display: none;
+   }
+
+   .phone-number {
+       white-space: nowrap;
+   }
+
+   .action-buttons {
+       white-space: nowrap;
+   }
+
+   .no-access {
+       opacity: 0.6;
+       pointer-events: none;
+   }
+

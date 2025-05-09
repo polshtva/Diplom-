@@ -1,0 +1,54 @@
+/* Базовые стили для всех устройств */
+.hero {
+    height: 100vh;
+    background: url(../../img/hero/fon.png) no-repeat center/cover;
+}
+
+.hero__contant {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+.hero__info {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+}
+
+.title {
+    font-size: clamp(1.75rem, 1.471rem + 1.274vi, 3rem);
+    font-weight: 700;
+    color: #2b2b2c;
+}
+
+.subtitle {
+    margin-top: 8px;
+    font-size: clamp(1.25rem, 1.194rem + 0.255vi, 1.5rem);
+    font-weight: 100;
+    color: #000;
+}
+
+.buttons {
+    margin-top: 29px;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 18px;
+    color: #fff;
+    padding: 13px 54px;
+    border-radius: 8px;
+    background-color: #186AF7;
+    border: none;
+    cursor: pointer;
+    transition: background-color, transform 0.5s ease-in;
+}
+
+.btn:hover {
+    background-color: #1553bd;
+
+}
+
+

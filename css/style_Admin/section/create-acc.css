@@ -1,0 +1,113 @@
+
+
+.input__data{
+    margin-top: 5px;
+    border: 1px solid rgba(111, 110, 110, 0.6);
+    border-radius: 8px;
+    width: 100%;
+    height: 40px;
+    padding-left: 8px;
+}
+
+.form-group > label{
+    font-weight: 200;
+    font-size: 20px;
+    color: #000;
+}
+
+.form-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #000;
+    margin-bottom: 30px;
+}
+
+
+
+.data__extra{
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 28px;
+    color: #186af7;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.btn-outline-secondary{
+    margin-right: 10px;
+}
+
+.btn-outline-secondary + span{
+    color: #186af7;
+    font-weight: 500;
+}
+
+
+.admin__permision{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.admin__permision input[type="checkbox"] + span > span{
+    color: #186af7;
+    font-weight: 500;
+}   
+
+
+.remove-parents {
+    background-color: #f44336;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.remove-parents:hover {
+    background-color: rgb(137, 42, 35);
+}
+
+
+.parents__add{
+    color: #186af7;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.parents__add:hover{
+    color: #1447a0;
+}
+
+.btn-generate {
+    margin-top: 7px;
+    padding: 10px;
+    background: transparent;
+    color: #186af7;
+    font-weight: 500;
+    border-color: #186af7;
+}
+
+.btn-generate:hover {
+    background: #186af7;
+    color: white;
+}
+
+.check-pass {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-addUser {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
