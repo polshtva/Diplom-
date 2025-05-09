@@ -1,0 +1,174 @@
+[09-May-2025 04:32:43 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 396
+[09-May-2025 04:32:44 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 396
+[09-May-2025 04:50:36 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:50:36 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:50:36 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:50:38 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:50:38 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:50:38 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:52:08 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:52:08 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:52:08 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:52:20 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:52:20 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:52:20 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:52:56 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:52:56 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:52:56 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:55:56 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:55:56 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:55:56 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:56:27 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:56:27 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:56:27 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:56:28 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:56:28 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:56:28 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:57:23 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:57:23 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:57:23 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:58:22 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:58:22 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:58:22 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:58:47 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:58:47 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:58:47 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 04:59:42 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:59:42 UTC] FFmpeg conversion failed. Command: ffmpeg -i "D:\Ampps\www\projectDelfa\uploads\videos\video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "D:\Ampps\www\projectDelfa/uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 04:59:42 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 551
+[09-May-2025 05:04:26 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 527
+[09-May-2025 05:04:26 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:04:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatFileSize() in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php:578
+Stack trace:
+#0 {main}
+  thrown in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 578
+[09-May-2025 05:06:11 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:06:11 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:06:11 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:07:20 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:07:21 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:07:22 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:07:22 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:07:22 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:07:56 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:07:57 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:08:01 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:08:01 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:08:01 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:08:31 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:08:33 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:08:34 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:08:39 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:08:39 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:08:39 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:09:27 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:09:28 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:09:30 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:09:37 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:09:37 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:09:37 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:09:53 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:09:53 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:09:53 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:13:14 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:13:14 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:13:14 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:15:15 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:15:22 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:15:23 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 542
+[09-May-2025 05:15:23 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:15:23 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:16:22 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 05:16:22 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:16:22 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:20:21 UTC] PHP Warning:  Undefined array key "Lesson_Id" in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 183
+[09-May-2025 05:21:30 UTC] PHP Warning:  move_uploaded_file(../uploads/videos/video_681d90daad915.mp4): Failed to open stream: No such file or directory in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 99
+[09-May-2025 05:21:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;D:\Ampps\tmp\phpB586.tmp&quot; to &quot;../uploads/videos/video_681d90daad915.mp4&quot; in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 99
+[09-May-2025 05:21:30 UTC] PHP Warning:  Undefined array key "Lesson_Id" in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 183
+[09-May-2025 05:22:04 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 05:22:07 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 05:22:13 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 05:26:07 UTC] PHP Warning:  Undefined array key "Lesson_Id" in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 183
+[09-May-2025 05:26:21 UTC] PHP Warning:  move_uploaded_file(../uploads/materials/material_681d91fdc50d5_Ð”Ð¸Ð¿Ð»Ð¾Ð¼ 2025.docx): Failed to open stream: No such file or directory in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 123
+[09-May-2025 05:26:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;D:\Ampps\tmp\php2E0F.tmp&quot; to &quot;../uploads/materials/material_681d91fdc50d5_Ð”Ð¸Ð¿Ð»Ð¾Ð¼ 2025.docx&quot; in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 123
+[09-May-2025 05:26:21 UTC] PHP Warning:  Undefined array key "Lesson_Id" in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 183
+[09-May-2025 05:26:47 UTC] PHP Warning:  Undefined array key "Lesson_Id" in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 183
+[09-May-2025 05:27:04 UTC] PHP Warning:  Undefined array key "Lesson_Id" in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 183
+[09-May-2025 05:31:02 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 05:31:09 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 05:31:09 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:31:09 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ï¿½ï¿½ ï¢«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½à¥­ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½è­¥ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½á¯®ï¿½ï¿½ï¥¬ï¿½ï¿½ ï¿½à®£à ¬ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ä ©ï¿½ï¿½ï¿½.
+[09-May-2025 05:32:48 UTC] PHP Warning:  Undefined array key "Lesson_Id" in D:\Ampps\www\projectDelfa\php\Instructor\lesson_details.php on line 183
+[09-May-2025 05:35:19 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in D:\Ampps\www\projectDelfa\php\forgot_password.php on line 3
+[09-May-2025 05:35:19 UTC] PHP Warning:  require(vendor/autoload.php): Failed to open stream: No such file or directory in D:\Ampps\www\projectDelfa\php\forgot_password.php on line 3
+[09-May-2025 05:35:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear') in D:\Ampps\www\projectDelfa\php\forgot_password.php:3
+Stack trace:
+#0 {main}
+  thrown in D:\Ampps\www\projectDelfa\php\forgot_password.php on line 3
+[09-May-2025 08:23:33 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:23:33 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ­¥ ï¢«ï¥âáï ¢­ãâà¥­­¥© ¨«¨ ¢­¥è­¥©
+ª®¬ ­¤®©, ¨á¯®«­ï¥¬®© ¯à®£à ¬¬®© ¨«¨ ¯ ª¥â­ë¬ ä ©«®¬.
+[09-May-2025 08:23:33 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ­¥ ï¢«ï¥âáï ¢­ãâà¥­­¥© ¨«¨ ¢­¥è­¥©
+ª®¬ ­¤®©, ¨á¯®«­ï¥¬®© ¯à®£à ¬¬®© ¨«¨ ¯ ª¥â­ë¬ ä ©«®¬.
+[09-May-2025 08:24:04 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:24:04 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ­¥ ï¢«ï¥âáï ¢­ãâà¥­­¥© ¨«¨ ¢­¥è­¥©
+ª®¬ ­¤®©, ¨á¯®«­ï¥¬®© ¯à®£à ¬¬®© ¨«¨ ¯ ª¥â­ë¬ ä ©«®¬.
+[09-May-2025 08:24:04 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ­¥ ï¢«ï¥âáï ¢­ãâà¥­­¥© ¨«¨ ¢­¥è­¥©
+ª®¬ ­¤®©, ¨á¯®«­ï¥¬®© ¯à®£à ¬¬®© ¨«¨ ¯ ª¥â­ë¬ ä ©«®¬.
+[09-May-2025 08:24:15 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:24:34 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:24:39 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:24:39 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f88cb3.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f88cb3.mp4" 2>&1. Output: "ffmpeg" ­¥ ï¢«ï¥âáï ¢­ãâà¥­­¥© ¨«¨ ¢­¥è­¥©
+ª®¬ ­¤®©, ¨á¯®«­ï¥¬®© ¯à®£à ¬¬®© ¨«¨ ¯ ª¥â­ë¬ ä ©«®¬.
+[09-May-2025 08:24:39 UTC] FFmpeg conversion failed. Command: ffmpeg -i "../../uploads/videos/video_6809de3f8926d.wmv" -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -movflags +faststart "../../uploads/videos/cache/video_6809de3f8926d.mp4" 2>&1. Output: "ffmpeg" ­¥ ï¢«ï¥âáï ¢­ãâà¥­­¥© ¨«¨ ¢­¥è­¥©
+ª®¬ ­¤®©, ¨á¯®«­ï¥¬®© ¯à®£à ¬¬®© ¨«¨ ¯ ª¥â­ë¬ ä ©«®¬.
+[09-May-2025 08:24:47 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:24:52 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:25:03 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:25:18 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510
+[09-May-2025 08:25:20 UTC] PHP Warning:  Undefined array key "Lesson_Date" in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php on line 510

@@ -1,0 +1,1670 @@
+[2025-05-09 04:32:38] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:32:39] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:32:41] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:32:43] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:32:44] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:50:36] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:50:37] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:52:08] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:52:20] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:52:56] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:55:56] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:56:27] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:56:28] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:56:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:57:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:57:23] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:58:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:58:25] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:58:47] [INFO] ====== Запуск приложения ======
+[2025-05-09 04:59:41] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:04:26] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:04:26] [ERROR] Фатальная ошибка: Uncaught Error: Call to undefined function formatFileSize() in D:\Ampps\www\projectDelfa\php\Student\course_lessons.php:578
+Stack trace:
+#0 {main}
+  thrown в файле D:\Ampps\www\projectDelfa\php\Student\course_lessons.php на строке 578
+[2025-05-09 05:06:11] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:07:20] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:07:21] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:07:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:07:56] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:07:57] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:08:01] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:08:31] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:08:33] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:08:34] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:08:39] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:24] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:26] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:27] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:28] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:33] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:35] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:37] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:41] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:43] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:44] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:45] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:47] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:50] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:51] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:09:53] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:13:09] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:13:10] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:13:12] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:13:13] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:13:14] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:15:12] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:15:14] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:15:15] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:15:18] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:15:19] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:15:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:15:23] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:16:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:20:13] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:20:14] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:20:17] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:20:18] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:20:21] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:21:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:21:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:01] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:01] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:03] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:04] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:07] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:11] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:12] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:22:13] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:25:58] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:25:58] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:26:04] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:26:05] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:26:07] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:26:21] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:26:21] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:26:47] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:26:47] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:27:04] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:27:04] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:30:59] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:30:59] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:31:01] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:31:02] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:31:09] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:32:48] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:32:48] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:32:52] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:35:19] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:35:19] [ERROR] Фатальная ошибка: Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear') in D:\Ampps\www\projectDelfa\php\forgot_password.php:3
+Stack trace:
+#0 {main}
+  thrown в файле D:\Ampps\www\projectDelfa\php\forgot_password.php на строке 3
+[2025-05-09 05:36:25] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:36:25.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 05:36:25.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 05:36:25.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 05:36:25.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 05:36:26.000] [ERROR] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Ошибка отправки: SMTP Error: Could not authenticate.
+SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-88.klg.yp-c.yandex.net Ok 1746769264-3fX8iJfLf4Y0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-88.klg.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 535 5.7.8 Error: authentication failed: This user does not have access rights to this service 1746769264-3fX8iJfLf4Y0
+
+SMTP ERROR: Password command failed: 535 5.7.8 Error: authentication failed: This user does not have access rights to this service 1746769264-3fX8iJfLf4Y0
+
+SMTP Error: Could not authenticate.
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+
+SMTP Error: Could not authenticate.
+[2025-05-09 05:37:36] [INFO] ====== Запуск приложения ======
+[2025-05-09 05:37:36.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 05:37:36.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 05:37:36.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 05:37:36.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 05:37:37.000] [ERROR] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Ошибка отправки: SMTP Error: Could not authenticate.
+SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-60.vla.yp-c.yandex.net Ok 1746769335-FgXf49gLkqM0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-60.vla.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 535 5.7.8 Error: authentication failed: This user does not have access rights to this service 1746769335-FgXf49gLkqM0
+
+SMTP ERROR: Password command failed: 535 5.7.8 Error: authentication failed: This user does not have access rights to this service 1746769335-FgXf49gLkqM0
+
+SMTP Error: Could not authenticate.
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+
+SMTP Error: Could not authenticate.
+[2025-05-09 06:02:53] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:02:53.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:02:54.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:02:54.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:02:54.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:02:54.000] [ERROR] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Ошибка отправки: Invalid address:  (From): @yandex.ru
+SMTP Debug:
+Invalid address:  (From): @yandex.ru
+[2025-05-09 06:03:53] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:03:53.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:03:53.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:03:53.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:03:54.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:03:54.000] [ERROR] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Ошибка отправки: SMTP Error: Could not authenticate.
+SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-74.vla.yp-c.yandex.net Ok 1746770913-W8Yh1EhLaa60
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-74.vla.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 535 5.7.8 Error: authentication failed: Invalid user or password! 1746770913-W8Yh1EhLaa60
+
+SMTP ERROR: Password command failed: 535 5.7.8 Error: authentication failed: Invalid user or password! 1746770913-W8Yh1EhLaa60
+
+SMTP Error: Could not authenticate.
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+
+SMTP Error: Could not authenticate.
+[2025-05-09 06:03:57] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:03:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:03:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:03:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:03:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:03:58.000] [ERROR] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Ошибка отправки: SMTP Error: Could not authenticate.
+SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-89.sas.yp-c.yandex.net Ok 1746770917-a8YdaFmLjeA0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-89.sas.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 535 5.7.8 Error: authentication failed: Invalid user or password! 1746770917-a8YdaFmLjeA0
+
+SMTP ERROR: Password command failed: 535 5.7.8 Error: authentication failed: Invalid user or password! 1746770917-a8YdaFmLjeA0
+
+SMTP Error: Could not authenticate.
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+
+SMTP Error: Could not authenticate.
+[2025-05-09 06:05:50] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:05:50.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:05:50.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:05:50.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:05:50.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:05:51.000] [ERROR] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Ошибка отправки: SMTP Error: Could not authenticate.
+SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net Ok 1746771030-TAYuYFhLg8c0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 535 5.7.8 Error: authentication failed: Invalid user or password! 1746771030-TAYuYFhLg8c0
+
+SMTP ERROR: Password command failed: 535 5.7.8 Error: authentication failed: Invalid user or password! 1746771030-TAYuYFhLg8c0
+
+SMTP Error: Could not authenticate.
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+
+SMTP Error: Could not authenticate.
+[2025-05-09 06:13:18] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:13:18.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:13:18.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:13:18.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:13:18.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:13:19.000] [ERROR] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Ошибка отправки: SMTP Error: Could not authenticate.
+SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-91.sas.yp-c.yandex.net Ok 1746771477-vHYMc2lLaCg0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-91.sas.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 535 5.7.8 Error: authentication failed: This user does not have access rights to this service 1746771477-vHYMc2lLaCg0
+
+SMTP ERROR: Password command failed: 535 5.7.8 Error: authentication failed: This user does not have access rights to this service 1746771477-vHYMc2lLaCg0
+
+SMTP Error: Could not authenticate.
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+
+SMTP Error: Could not authenticate.
+[2025-05-09 06:16:43] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:16:43.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:16:43.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:16:43.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:16:44.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:16:45.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:145] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 06:16:45.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:146] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-92.iva.yp-c.yandex.net Ok 1746771683-MLYDIjELf0U0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-92.iva.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746771683-MLYDIjELf0U0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746771683-MLYDIjELf0U0-8vCioHhl
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746771683-MLYDIjELf0U0-8vCioHhl
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 06:16:44 +0000
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: =?UTF-8?B?0J3QsNC30LLQsNC90LjQtSDQstCw0YjQtdCz0L4g0YHQtdGA0LLQuNGB0LA=?= <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <IBq7IG23vRNQOajuiZaa6f3NOP4H2c90hnZ0pF7TEU@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_IBq7IG23vRNQOajuiZaa6f3NOP4H2c90hnZ0pF7TEU"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_IBq7IG23vRNQOajuiZaa6f3NOP4H2c90hnZ0pF7TEU
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 493945
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 07:16
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_IBq7IG23vRNQOajuiZaa6f3NOP4H2c90hnZ0pF7TEU
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>493945</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 07:16</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_IBq7IG23vRNQOajuiZaa6f3NOP4H2c90hnZ0pF7TEU--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-92.iva.yp-c.yandex.net 1746771684-MLYDIjELf0U0-8vCioHhl
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 06:17:03] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:23:20] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:23:20.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:23:20.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:23:20.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:23:20.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:23:21.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:145] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 06:23:21.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:146] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-99.klg.yp-c.yandex.net Ok 1746772079-xRYQaFgLimI0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-99.klg.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746772079-xRYQaFgLimI0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746772079-xRYQaFgLimI0-tOcRmN16
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746772079-xRYQaFgLimI0-tOcRmN16
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 06:23:20 +0000
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <0oY4gSAl8S1QN3T9RJsQWsgSo1kJyFGCVnlll7Jecak@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_0oY4gSAl8S1QN3T9RJsQWsgSo1kJyFGCVnlll7Jecak"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_0oY4gSAl8S1QN3T9RJsQWsgSo1kJyFGCVnlll7Jecak
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 964066
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 07:23
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_0oY4gSAl8S1QN3T9RJsQWsgSo1kJyFGCVnlll7Jecak
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>964066</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 07:23</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_0oY4gSAl8S1QN3T9RJsQWsgSo1kJyFGCVnlll7Jecak--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-99.klg.yp-c.yandex.net 1746772080-xRYQaFgLimI0-tOcRmN16
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 06:23:37] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:24:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:24:22.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:24:22.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 06:24:22.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:88] Сгенерирован код для пользователя ID: 13
+[2025-05-09 06:24:22.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:107] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 06:24:23.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:145] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 06:24:23.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:146] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-55.vla.yp-c.yandex.net Ok 1746772141-1TYddVhLiSw0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-55.vla.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746772141-1TYddVhLiSw0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746772141-1TYddVhLiSw0-N1SXu7Dt
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746772141-1TYddVhLiSw0-N1SXu7Dt
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 06:24:22 +0000
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <O0n1Zvk4fR0naTeFKlT7pS00XlG0MZbSoK3pppCg4@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_O0n1Zvk4fR0naTeFKlT7pS00XlG0MZbSoK3pppCg4"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_O0n1Zvk4fR0naTeFKlT7pS00XlG0MZbSoK3pppCg4
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 973536
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 07:24
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_O0n1Zvk4fR0naTeFKlT7pS00XlG0MZbSoK3pppCg4
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>973536</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 07:24</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_O0n1Zvk4fR0naTeFKlT7pS00XlG0MZbSoK3pppCg4--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-55.vla.yp-c.yandex.net 1746772141-1TYddVhLiSw0-N1SXu7Dt
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 06:24:39] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:25:59] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:25:59.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:25:59.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 11:25:59.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 12:25:59 (Екатеринбург)
+[2025-05-09 11:25:59.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 11:26:00.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 11:26:00.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net Ok 1746772238-cUYdPUhLoa60
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746772238-cUYdPUhLoa60
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746772238-cUYdPUhLoa60-CrG1UUeV
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746772238-cUYdPUhLoa60-CrG1UUeV
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 11:25:59 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <x2540mDrinShor9EmA6oLFDaqmwcoMIFhd7z3mOg@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_x2540mDrinShor9EmA6oLFDaqmwcoMIFhd7z3mOg"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_x2540mDrinShor9EmA6oLFDaqmwcoMIFhd7z3mOg
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 078242
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 12:25
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_x2540mDrinShor9EmA6oLFDaqmwcoMIFhd7z3mOg
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>078242</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 12:25</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_x2540mDrinShor9EmA6oLFDaqmwcoMIFhd7z3mOg--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net 1746772239-cUYdPUhLoa60-CrG1UUeV
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 06:27:02] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:27:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:27:59] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:32:15] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:32:15.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:32:15.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 11:32:15.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 12:32:15 (Екатеринбург)
+[2025-05-09 11:32:15.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 11:32:16.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 11:32:16.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-73.sas.yp-c.yandex.net Ok 1746772614-saYBA7mLhW20
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-73.sas.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746772614-saYBA7mLhW20
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746772615-saYBA7mLhW20-oZ8IV9kp
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746772615-saYBA7mLhW20-oZ8IV9kp
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 11:32:15 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <07H8aPRROBDDsClS45l3tmL7hgp1Cnj8glSGYbkQ@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_07H8aPRROBDDsClS45l3tmL7hgp1Cnj8glSGYbkQ"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_07H8aPRROBDDsClS45l3tmL7hgp1Cnj8glSGYbkQ
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 004235
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 12:32
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_07H8aPRROBDDsClS45l3tmL7hgp1Cnj8glSGYbkQ
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>004235</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 12:32</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_07H8aPRROBDDsClS45l3tmL7hgp1Cnj8glSGYbkQ--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-73.sas.yp-c.yandex.net 1746772615-saYBA7mLhW20-oZ8IV9kp
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 06:32:33] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:33:15] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:36:29] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:36:29.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 06:36:29.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 11:36:29.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 12:36:29 (Екатеринбург)
+[2025-05-09 11:36:30.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 11:36:31.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 11:36:31.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net Ok 1746772869-8fYn6chLlCg0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746772869-8fYn6chLlCg0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746772869-8fYn6chLlCg0-oNyc0GR2
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746772869-8fYn6chLlCg0-oNyc0GR2
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 11:36:30 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <PzQwbFdCGJ57EiIChQgXkU5QlhXhG6iKa6oQxBWk@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_PzQwbFdCGJ57EiIChQgXkU5QlhXhG6iKa6oQxBWk"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_PzQwbFdCGJ57EiIChQgXkU5QlhXhG6iKa6oQxBWk
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 677332
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 12:36
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_PzQwbFdCGJ57EiIChQgXkU5QlhXhG6iKa6oQxBWk
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>677332</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 12:36</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_PzQwbFdCGJ57EiIChQgXkU5QlhXhG6iKa6oQxBWk--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-84.vla.yp-c.yandex.net 1746772870-8fYn6chLlCg0-oNyc0GR2
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 06:36:42] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:37:18] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:38:05] [INFO] ====== Запуск приложения ======
+[2025-05-09 06:38:05] [INFO] ====== Запуск приложения ======
+[2025-05-09 07:52:02] [INFO] ====== Запуск приложения ======
+[2025-05-09 07:52:02] [INFO] ====== Запуск приложения ======
+[2025-05-09 07:52:06] [INFO] ====== Запуск приложения ======
+[2025-05-09 07:52:07] [INFO] ====== Запуск приложения ======
+[2025-05-09 07:52:08] [INFO] ====== Запуск приложения ======
+[2025-05-09 07:52:10] [INFO] ====== Запуск приложения ======
+[2025-05-09 07:52:11] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:04:57] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:04:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 08:04:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 13:04:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 14:04:57 (Екатеринбург)
+[2025-05-09 13:04:57.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 13:04:59.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 13:04:59.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-74.iva.yp-c.yandex.net Ok 1746778176-a9aqtSRLm0U0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-74.iva.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746778177-a9aqtSRLm0U0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746778177-a9aqtSRLm0U0-JHSDNx58
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746778177-a9aqtSRLm0U0-JHSDNx58
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 13:04:57 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <nKfSYGYNCEQdNhNE7lNZvRRSx0eF7GJTiYYwbZWEOM@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_nKfSYGYNCEQdNhNE7lNZvRRSx0eF7GJTiYYwbZWEOM"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_nKfSYGYNCEQdNhNE7lNZvRRSx0eF7GJTiYYwbZWEOM
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 804459
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 14:04
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_nKfSYGYNCEQdNhNE7lNZvRRSx0eF7GJTiYYwbZWEOM
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>804459</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 14:04</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_nKfSYGYNCEQdNhNE7lNZvRRSx0eF7GJTiYYwbZWEOM--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-74.iva.yp-c.yandex.net 1746778177-a9aqtSRLm0U0-JHSDNx58
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 08:06:14] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:06:14.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 08:06:14.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 13:06:14.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 14:06:14 (Екатеринбург)
+[2025-05-09 13:06:14.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 13:06:16.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 13:06:16.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-73.sas.yp-c.yandex.net Ok 1746778253-qAa1qMnLZuQ0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-73.sas.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746778254-qAa1qMnLZuQ0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746778254-qAa1qMnLZuQ0-zNFsBIOq
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746778254-qAa1qMnLZuQ0-zNFsBIOq
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 13:06:14 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <0qPiZAidXlqjMlcp4BoD9bCAoycjeX1T6A01z75u8@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_0qPiZAidXlqjMlcp4BoD9bCAoycjeX1T6A01z75u8"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_0qPiZAidXlqjMlcp4BoD9bCAoycjeX1T6A01z75u8
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 234629
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 14:06
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_0qPiZAidXlqjMlcp4BoD9bCAoycjeX1T6A01z75u8
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>234629</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 14:06</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_0qPiZAidXlqjMlcp4BoD9bCAoycjeX1T6A01z75u8--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-73.sas.yp-c.yandex.net 1746778254-qAa1qMnLZuQ0-zNFsBIOq
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 08:06:39] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:07:08] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:07:28] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:07:57] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:09:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:09:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:16:09] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:16:09.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 08:16:09.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 13:16:09.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 14:16:09 (Екатеринбург)
+[2025-05-09 13:16:09.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 08:16:12] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:16:12.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 08:16:12.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 13:16:12.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 14:16:12 (Екатеринбург)
+[2025-05-09 13:16:12.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 13:16:12.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-59.klg.yp-c.yandex.net Ok 1746778848-mKacWGhLg4Y0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-59.klg.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746778849-mKacWGhLg4Y0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746778849-mKacWGhLg4Y0-bhJfVkan
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746778849-mKacWGhLg4Y0-bhJfVkan
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 13:16:09 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <XfBRdt0y5m4QX3MoTONTPKwjajM2jLfVsf16KE5I0@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_XfBRdt0y5m4QX3MoTONTPKwjajM2jLfVsf16KE5I0"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_XfBRdt0y5m4QX3MoTONTPKwjajM2jLfVsf16KE5I0
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 297449
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 14:16
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_XfBRdt0y5m4QX3MoTONTPKwjajM2jLfVsf16KE5I0
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>297449</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 14:16</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_XfBRdt0y5m4QX3MoTONTPKwjajM2jLfVsf16KE5I0--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-59.klg.yp-c.yandex.net 1746778850-mKacWGhLg4Y0-bhJfVkan
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 13:16:12.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 08:17:34] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:17:55] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:17:55] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:18:07] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:18:07.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:50] Начало обработки запроса на восстановление пароля
+[2025-05-09 08:18:07.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:59] Получен email: polina-shestakova2003@mail.ru
+[2025-05-09 13:18:07.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:97] Сгенерирован код для пользователя ID: 13. Действителен до: 2025-05-09 14:18:07 (Екатеринбург)
+[2025-05-09 13:18:07.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:116] Начало отправки письма на polina-shestakova2003@mail.ru
+[2025-05-09 13:18:11.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 13:18:11.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-74.vla.yp-c.yandex.net Ok 1746778966-kMauLpiLga60
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-74.vla.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746778967-kMauLpiLga60
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746778967-kMauLpiLga60-g37wzyEd
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746778967-kMauLpiLga60-g37wzyEd
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 13:18:07 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <Y9LVsVjrGj7NCOjFSvIk0DFXuDlBpY62qNkQYuGbs@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_Y9LVsVjrGj7NCOjFSvIk0DFXuDlBpY62qNkQYuGbs"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_Y9LVsVjrGj7NCOjFSvIk0DFXuDlBpY62qNkQYuGbs
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 870217
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 14:18
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_Y9LVsVjrGj7NCOjFSvIk0DFXuDlBpY62qNkQYuGbs
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>870217</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 14:18</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_Y9LVsVjrGj7NCOjFSvIk0DFXuDlBpY62qNkQYuGbs--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-74.vla.yp-c.yandex.net 1746778968-kMauLpiLga60-g37wzyEd
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 221 2.0.0 Closing connecton
+[2025-05-09 08:18:25] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:18:44] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:19:00] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:19:00] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:20:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:20:31] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:20:31] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:20:33] [INFO] ====== Запуск приложения ======
+[2025-05-09 13:21:14.000] [INFO] [D:\Ampps\www\projectDelfa\php\forgot_password.php:154] Письмо успешно отправлено на polina-shestakova2003@mail.ru
+[2025-05-09 13:21:14.000] [DEBUG] [D:\Ampps\www\projectDelfa\php\forgot_password.php:155] SMTP Debug:
+SERVER -> CLIENT: 220 mail-nwsmtp-smtp-production-main-88.iva.yp-c.yandex.net Ok 1746778850-oKapwBBLniE0
+
+CLIENT -> SERVER: EHLO localhost
+
+SERVER -> CLIENT: 250-mail-nwsmtp-smtp-production-main-88.iva.yp-c.yandex.net
+250-8BITMIME
+250-PIPELINING
+250-SIZE 53477376
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH2
+250-DSN
+250 ENHANCEDSTATUSCODES
+
+CLIENT -> SERVER: AUTH LOGIN
+
+SERVER -> CLIENT: 334 VXNlcm5hbWU6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 334 UGFzc3dvcmQ6
+
+CLIENT -> SERVER: [credentials hidden]
+SERVER -> CLIENT: 235 2.7.0 Authentication successful. 1746778851-oKapwBBLniE0
+
+CLIENT -> SERVER: MAIL FROM:<it-platform@yandex.ru>
+
+SERVER -> CLIENT: 250 2.1.0 <it-platform@yandex.ru> ok 1746778851-oKapwBBLniE0-FGfWvIKY
+
+CLIENT -> SERVER: RCPT TO:<polina-shestakova2003@mail.ru>
+
+SERVER -> CLIENT: 250 2.1.5 <polina-shestakova2003@mail.ru> recipient ok 1746778851-oKapwBBLniE0-FGfWvIKY
+
+CLIENT -> SERVER: DATA
+
+SERVER -> CLIENT: 354 Start mail input, end with <CRLF>.<CRLF>
+
+CLIENT -> SERVER: Date: Fri, 9 May 2025 13:16:12 +0500
+
+CLIENT -> SERVER: To: polina-shestakova2003@mail.ru
+
+CLIENT -> SERVER: From: IT-PLATFORM <it-platform@yandex.ru>
+
+CLIENT -> SERVER: Subject: =?UTF-8?B?0JrQvtC0INCy0L7RgdGB0YLQsNC90L7QstC70LXQvdC40Y8g0L/QsNGA0L4=?=
+
+CLIENT -> SERVER:  =?UTF-8?B?0LvRjw==?=
+
+CLIENT -> SERVER: Message-ID: <tFSSYr59AMrTv8uQfqxQ7d5NFMcdl8Gmv0gfLtwt2sU@localhost>
+
+CLIENT -> SERVER: X-Mailer: PHPMailer 6.10.0 (https://github.com/PHPMailer/PHPMailer)
+
+CLIENT -> SERVER: MIME-Version: 1.0
+
+CLIENT -> SERVER: Content-Type: multipart/alternative;
+
+CLIENT -> SERVER:  boundary="b1=_tFSSYr59AMrTv8uQfqxQ7d5NFMcdl8Gmv0gfLtwt2sU"
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_tFSSYr59AMrTv8uQfqxQ7d5NFMcdl8Gmv0gfLtwt2sU
+
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: Ваш код восстановления: 283501
+
+CLIENT -> SERVER: Код действителен до: 09.05.2025 14:16
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_tFSSYr59AMrTv8uQfqxQ7d5NFMcdl8Gmv0gfLtwt2sU
+
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+
+CLIENT -> SERVER: Content-Transfer-Encoding: 8bit
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: <h2>Восстановление пароля</h2>
+
+CLIENT -> SERVER:             <p>Ваш код подтверждения: <strong>283501</strong></p>
+
+CLIENT -> SERVER:             <p>Код действителен до: 09.05.2025 14:16</p>
+
+CLIENT -> SERVER:             <p>Если вы не запрашивали восстановление пароля, проигнорируйте это письмо.</p>
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: --b1=_tFSSYr59AMrTv8uQfqxQ7d5NFMcdl8Gmv0gfLtwt2sU--
+
+CLIENT -> SERVER: 
+
+CLIENT -> SERVER: .
+
+SERVER -> CLIENT: 250 2.0.0 Ok: queued on mail-nwsmtp-smtp-production-main-88.iva.yp-c.yandex.net 1746778852-oKapwBBLniE0-FGfWvIKY
+
+CLIENT -> SERVER: QUIT
+
+SERVER -> CLIENT: 
+SMTP ERROR: QUIT command failed:
+[2025-05-09 08:23:28] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:28] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:33] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:45] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:46] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:48] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:50] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:51] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:56] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:57] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:58] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:23:59] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:00] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:01] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:04] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:15] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:34] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:39] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:43] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:44] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:47] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:24:52] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:03] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:18] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:20] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:25] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:26] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:43] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:25:44] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:26:09] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:26:09] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:26:21] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:26:28] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:26:36] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:26:38] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:26:41] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:06] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:22] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:24] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:26] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:27] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:31] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:33] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:44] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:46] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:27:48] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:28:27] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:28:28] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:28:29] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:28:30] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:28:32] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:28:35] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:32] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:33] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:34] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:35] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:39] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:40] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:42] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:56] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:29:59] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:03] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:09] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:10] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:11] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:12] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:14] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:16] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:20] [INFO] ====== Запуск приложения ======
+[2025-05-09 08:30:21] [INFO] ====== Запуск приложения ======
